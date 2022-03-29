@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Obsolete-Tileset.png-58bef7f7024d73dc3f36b0c821c3823c.stex"
+path="res://.import/Obsolete-LevelBackground.png-cd28bbeb5a1a354ce7c5351fb9af260a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/level-tileset/Obsolete-Tileset.png"
-dest_files=[ "res://.import/Obsolete-Tileset.png-58bef7f7024d73dc3f36b0c821c3823c.stex" ]
+source_file="res://assets/images/level-art/Obsolete-LevelBackground.png"
+dest_files=[ "res://.import/Obsolete-LevelBackground.png-cd28bbeb5a1a354ce7c5351fb9af260a.stex" ]
 
 [params]
 
